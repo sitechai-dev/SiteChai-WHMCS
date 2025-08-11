@@ -23,7 +23,7 @@ SiteChai is a web based company. It provides Domain & Hosting services as well a
    **API Username:** your SiteChai-associated email  
    **API Key:** `reseller.sitechai.com` → `Login` → `Settings` → `API` → **View API Key**
 
---
+
 
 ## Frequently Asked Questions
 
