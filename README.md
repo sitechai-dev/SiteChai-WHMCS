@@ -6,7 +6,7 @@ SiteChai is a web based company. It provides Domain & Hosting services as well a
 1. Download the ZIP file.
 2. Upload and unzip it inside the public_html folder.
 3. Move the "sitechai" folder to:
-` /public_html//modules/registrars/ `
+` /public_html/modules/registrars/ `
 4. In WHMCS, go to:
 System Settings > Domain Registrars > SiteChai > Activate
 5. Whitelist your whmcs website. <br>
