@@ -7,9 +7,10 @@ Sitechai is a web based company. It provides Domain & Hosting services as well a
 
 ## How to install the WHMCS module
 
-1. **Download** the ZIP file.
+1. **Download** the [module](https://github.com/sitechai-dev/SiteChai-WHMCS/releases/download/sitechai-whmcs-v2.03/sitechai-whmcs-v2.03.zip).
+
 2. **Upload** the ZIP file inside `public_html` folder.
-3. UNZIP the file.
+3. **UNZIP** the file.
 4. In WHMCS, go to:  
    `System Settings` → `Domain Registrars` → `SiteChai` → **Activate**
 5. **Whitelist** your WHMCS website IP in your reseller panel:  
