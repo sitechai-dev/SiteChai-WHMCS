@@ -13,13 +13,13 @@ SiteChai is a web based company. It provides Domain & Hosting services as well a
 3. **UNZIP** the file.
 4. In WHMCS, go to:  
    `System Settings` → `Domain Registrars` → `SiteChai` → **Activate**
-5. **Whitelist** your WHMCS IP in SiteChai Reseller panel:  
+5. **Whitelist** your WHMCS IP in SiteChai Reseller Panel:  
    `reseller.sitechai.com/manage.sitechai.com` → `Login` → `Settings` → `API` → **Enter WHMCS IP Address** → **Save**
 
    > **Note:**
    > Whitelisting usually completes within 1 hour. During high-traffic periods, it may take up to 24 hours.
 
-6. **Enter your API credentials** from the reseller panel:  
+6. **Enter your API credentials** from your SiteChai Reseller Panel:  
    **API Username:** your SiteChai-associated email  
    **API Key:** `reseller.sitechai.com/manage.sitechai.com` → `Login` → `Settings` → `API` → **View API Key**
 
