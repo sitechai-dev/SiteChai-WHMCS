@@ -39,6 +39,5 @@ SiteChai is a web based company. It provides Domain & Hosting services as well a
 ### To know more
 > Visit the **[SiteChai Website](https://sitechai.com)**.
 
----
 
 ©2025 **SITECHAI. ALL RIGHTS RESERVED**
