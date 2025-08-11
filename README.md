@@ -36,8 +36,8 @@ SiteChai is a web based company. It provides Domain & Hosting services as well a
 ### How long does it take to whitelist my IP?
 > Normally it takes up to **1 hour** to whitelist your IP. During high-traffic periods, it may take up to **24 hours**.
 
-### Where can I find developer resources?
-> Visit the **[Developer Page](https://sitechai.com)**.
+### To know more
+> Visit the **[SiteChai Website](https://sitechai.com)**.
 
 ---
 
