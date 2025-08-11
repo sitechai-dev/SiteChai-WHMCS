@@ -1,6 +1,6 @@
 # SiteChai WHMCS
 
-Sitechai is a web based company. It provides Domain & Hosting services as well as various other IT related services.
+SiteChai is a web based company. It provides Domain & Hosting services as well as various other IT related services.
 
 ## Prerequisites
 - WHMCS v8.0 or later
@@ -13,10 +13,10 @@ Sitechai is a web based company. It provides Domain & Hosting services as well a
 3. **UNZIP** the file.
 4. In WHMCS, go to:  
    `System Settings` → `Domain Registrars` → `SiteChai` → **Activate**
-5. **Whitelist** your WHMCS website IP in your reseller panel:  
+5. **Whitelist** your WHMCS IP in SiteChai Reseller panel:  
    `reseller.sitechai.com/manage.sitechai.com` → `Login` → `Settings` → `API` → **Enter WHMCS IP Address** → **Save**
 
-   > [!NOTE]
+   > **Note:**
    > Whitelisting usually completes within 1 hour. During high-traffic periods, it may take up to 24 hours.
 
 6. **Enter your API credentials** from the reseller panel:  
