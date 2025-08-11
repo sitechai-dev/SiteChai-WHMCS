@@ -37,7 +37,7 @@ SiteChai is a web based company. It provides Domain & Hosting services as well a
 > Normally it takes up to **1 hour** to whitelist your IP. During high-traffic periods, it may take up to **24 hours**.
 
 ### What are all the contact options?
-> To know all the contact options Visit **[SiteChai Contact Page](https://sitechai.com/contact-us)**.
+> To know all the contact options visit **[SiteChai Contact Page](https://sitechai.com/contact-us)**.
 
 </br>
 
