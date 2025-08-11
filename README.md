@@ -1,7 +1,6 @@
 # SiteChai WHMCS
 
-SiteChai is a web-based company providing domains, hosting, and other IT services.  
-This is the official WHMCS registrar module for SiteChai.
+Sitechai is a web based company. It provides Domain & Hosting services as well as various other IT related services.
 
 ## Prerequisites
 - WHMCS v8.0 or later
