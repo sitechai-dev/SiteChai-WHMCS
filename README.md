@@ -20,7 +20,7 @@ SiteChai is a web based company. It provides Domain & Hosting services as well a
    > Whitelisting usually completes within 1 hour. During high-traffic periods, it may take up to 24 hours.
 
 6. **Enter your API credentials** from your SiteChai Reseller Panel:  
-   **ResellerID:** your Reseller ID found in SiteChai Reseller Panel
+   **ResellerID:** your Reseller ID found in SiteChai Reseller Panel <br>
    **APIKey:** `reseller.sitechai.com` → `Login` → `Settings` → `API` → **View API Key**
 
 
