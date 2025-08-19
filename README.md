@@ -9,7 +9,7 @@ SiteChai is a web based company. It provides Domain & Hosting services as well a
 
 1. **Download** the [module](https://github.com/sitechai-dev/SiteChai-WHMCS/releases/download/sitechai-whmcs-v2.03/sitechai-whmcs-v2.03.zip).
 
-2. **Upload** the ZIP file inside `public_html` folder.
+2. **Upload** the ZIP file inside `public_html` folder or main local directory of your whmcs.
 3. **UNZIP** the file.
 4. In WHMCS, go to:  
    `System Settings` → `Domain Registrars` → `SiteChai` → **Activate**
@@ -31,7 +31,7 @@ SiteChai is a web based company. It provides Domain & Hosting services as well a
 > Please email **support@sitechai.com**. Describe your issue in detail and attach relevant error logs.
 
 ### How can I add funds to my SiteChai Reseller account?
-> Add funds from your **reseller.sitechai.com/manage.sitechai.com** panel.
+> Add funds from your **reseller.sitechai.com or manage.sitechai.com** panel.
 
 ### How long does it take to whitelist my IP?
 > Normally it takes up to **1 hour** to whitelist your IP. During high-traffic periods, it may take up to **24 hours**.
